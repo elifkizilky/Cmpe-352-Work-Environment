@@ -114,10 +114,10 @@ List all deliverables as links. Specify the version numbers whenever applicable.
 |[Progress based on teamwork](#milestone-review)|Delivered|Progress based on teamwork is completed.|
 |[API Endpoints](https://github.com/bounswe/bounswe2023group7/tree/development/reports)|Delivered|API has been deployed. Here is [swagger link](http://164.92.195.35:8080/api) to the api and [UI](http://51.20.170.143:3000/) of the api. 
 |[Individual Contributions](#individual-contribution-reports)|Delivered|Individual contributions are completed.|
-|[User Interface / User Experience](#individual-contribution-reports)|Delivered|[User Interface](http://51.20.170.143:3000/) / User Experience are completed.|
-|[Annotations](#individual-contribution-reports)|Delivered|[Annotations](http://51.20.170.143:3000/) are completed.|
-|[Scenarios](#individual-contribution-reports)|Delivered|Scenarios are completed.|
-|[Use and Maintanence](#individual-contribution-reports)|Delivered|User and system manuals are completed.|
+|[User Interface / User Experience](#ui-ux)|Delivered|[User Interface](http://51.20.170.143:3000/) / User Experience are completed.|
+|[Annotations](#annotations)|Delivered|[Annotations](http://51.20.170.143:3000/) are completed.|
+|[Scenarios](#scenarios)|Delivered|Scenarios are completed.|
+|[Use and Maintanence](#use-and-maintanence)|Delivered|User and system manuals are completed.|
 
 ## **Requirements Coverage**
 
