@@ -131,7 +131,7 @@ List all deliverables as links. Specify the version numbers whenever applicable.
         - 1.1.1.1 Register
             - 1.1.1.1.1. (Completed) Guests shall be able to register to the platform.     
             - 1.1.1.1.2. (Completed) Users should verify their accounts via e-mails, which proves mail address belongs to user.
-            - 1.1.1.1.3. (%50 Completed) Famous developers, professional e-sports players, famous streamers, famous video producers should be able to get official accounts.
+            - 1.1.1.1.3. (Completed) Famous developers, professional e-sports players, famous streamers, famous video producers should be able to get official accounts.
         - 1.1.1.2. Login
             - 1.1.1.2.1. (Completed) Users shall be able to login the platform with username and password.
             - 1.1.1.2.2. (Completed) Users shall be able to logout.
@@ -153,10 +153,10 @@ List all deliverables as links. Specify the version numbers whenever applicable.
             - 1.1.2.6.4 (Completed) Users shall be able to add their favorite games on their profiles.
             - 1.1.2.6.5 (Completed) Users shall be able to share the number of comments on the forum, the number of posts on the forum, and the number of reviews they published on their profiles.
             - 1.1.2.6.6 (Completed) Developers and e-sports players shall be able to add their associated titles/teams/companies to their profiles.
-            - 1.1.2.6.7 (Not Started) Users shall be able to share their gaming platform profiles, including Steam, Epic, IndieGala, Humble Bundle, Ubisoft Connect, GOG, Origins, Xbox Live, itch.io, Google Play Games, on their profiles.
+            - 1.1.2.6.7 (Completed) Users shall be able to share their gaming platform profiles which are Steam on their profiles.
             - 1.1.2.6.8 (Completed) Users shall be able to display their user types, that are gamer, developer, and e-sports player.
         - 1.1.2.7 Activity Tracking
-            - 1.1.2.7.1 (Not Started) Users’ last activities shall be seen on their profiles.
+            - 1.1.2.7.1 (50% completed) Users’ last activities shall be seen on their profiles.
         - 1.1.2.8 Forum
             - 1.1.2.8.1 (Not Started) Users should be able to display previews for posts which they created on their profiles.
             - 1.1.2.8.2 (Completed) Users shall be able to display their comments on other users’ posts.
@@ -165,10 +165,7 @@ List all deliverables as links. Specify the version numbers whenever applicable.
             - 1.1.2.9.2 (Completed) Developers shall be able to display their upcoming titles on their profile page.
         - 1.1.2.10 Actions
             - 1.1.2.10.1 (Completed) Users shall be able to view the other user’s profiles.
-            - 1.1.2.10.2 (Not Started) Users should be able to follow the other users.
-            - 1.1.2.10.3 (Not Started) Users should be able to unfollow the other users.
-            - 1.1.2.10.4 (Not Started) Users should be able to block some users.
-            - 1.1.2.10.5 (Not Started) Users should be able to unblock some users which they blocked.
+
     - 1.1.3 Game
         - 1.1.3.1 (Completed) Users shall be able to create a page for a game.
         - 1.1.3.1 (Completed) Users and guests shall be able to view game profiles, reviews, and average ratings of the game.
@@ -190,10 +187,10 @@ List all deliverables as links. Specify the version numbers whenever applicable.
         - 1.1.3.17 (Completed) Users should be able to see the age restrictions (PEGI).
         - 1.1.3.18 (Completed) Users shall be able to add tag or tags to a game.
         - 1.1.3.19 Entity Page
-            - 1.1.3.19.1 (In Progress) Users shall be able to create a page for game entities.
-            - 1.1.3.19.2 (In Progress) Users and guests shall be able to view game entities.
+            - 1.1.3.19.1 (Completed) Users shall be able to create a page for game entities.
+            - 1.1.3.19.2 (Completed) Users and guests shall be able to view game entities.
             - 1.1.3.19.3 (Completed) Game entities are characters, packages, items, and environments.
-            - 1.1.3.19.4 (In Progress) Users shall be able to reach the entity pages from game pages.
+            - 1.1.3.19.4 (Completed) Users shall be able to reach the entity pages from game pages.
     - 1.1.4. (Completed) Upcoming Titles
     - 1.1.5 Forum
         - 1.1.5.1 (Completed) Guests and users shall be able to visit the forum.
@@ -217,12 +214,12 @@ List all deliverables as links. Specify the version numbers whenever applicable.
         - (Completed) 1.2.1.4 System shall calculate the average rating of the game.
         - (Completed) 1.2.1.5 System shall calculate the average completion duration of the game.
     - 1.2.2 Search
-        - (In Progress) 1.2.2.1. System shall allow users to search for forum thread, subforum, forum comment, upcoming titles, gaming communities-groups, users, and games.
-        - (In Progress) 1.2.2.2. System shall allow the user to filter the search for the users, games, and tags.
+        - (Completed) 1.2.2.1. System shall allow users to search for forum thread, upcoming titles, groups, users, and games.
+        - (%70 completed) 1.2.2.2. System shall allow the user to filter the search for the users, games, and tags.
         - (Completed) 1.2.2.3. System shall allow users to use sorting features ascending or descending.
         - (Completed) 1.2.2.4. System shall allow users to sort the threads, alphabetically, by first post date, by last post date,by number of comments in threads.
-        - (%50 Completed) 1.2.2.5. System shall allow users to sort the comments by date, number of replies and difference of upvotes and downvotes for the comment.
-        - (Completed) 1.2.2.6. System shall allow users to sort upcoming titles by post date or launch date.
+        - (%50 Completed) 1.2.2.5. System shall allow users to sort the comments by date, number of replies and difference of likes and dislikes for the comment.
+        - (not started) 1.2.2.6. System shall allow users to sort upcoming titles by post date or launch date.
     - 1.2.4 (Completed) Annotations
     - 1.2.5 (Completed) Recommendations
     - 1.2.6 User Data
