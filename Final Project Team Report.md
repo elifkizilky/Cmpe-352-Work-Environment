@@ -2210,7 +2210,7 @@ Deployed Swagger Documentation: http://164.92.195.35:8080/api
 * [Mockups](https://github.com/bounswe/bounswe2023group7/wiki/Mock-Ups)
 ## [Research](https://github.com/bounswe/bounswe2023group7/wiki/%F0%9F%93%9D-Researches)
 ## [Project plan](https://github.com/orgs/bounswe/projects/19)
-
+## [Software Release](https://github.com/bounswe/bounswe2023group7/releases/tag/final-submission-g7)
 ## Unit Test Reports
 - We have written unit tests for our backend application. We have used the jest framework for unit testing. We have mocked our repository layer functions so that we do not need a database connection while running the tests. We have created a GitHub Actions workflow that runs unit tests when a pull request that includes changes in the backend folder is created. This workflow also runs npm run build and npm run lint commands to check build errors and format errors.
 - We have created unit tests for some of the controller functions. The tests may be run with the `npm test` command. The results of the tests can be found in the picture below.
